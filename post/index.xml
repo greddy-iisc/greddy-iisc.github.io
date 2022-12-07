@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Theoretical/Computational Biophysics and Biophysical Chemistry</title>
+    <link>https://greddy-iisc.github.io/post/</link>
+      <atom:link href="https://greddy-iisc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Govardhan Reddy</copyright>
+    <image>
+      <url>https://greddy-iisc.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://greddy-iisc.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Genaral Focus</title>
+      <link>https://greddy-iisc.github.io/post/generalfocus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://greddy-iisc.github.io/post/generalfocus/</guid>
+      <description>&lt;p&gt;Our research interests are in the area of theoretical/computational biophysics and biophysical chemistry.&lt;/p&gt;
+&lt;p&gt;Depending on the system of interest, we use and develop atomistic, coarse-grained and continuum-based protein-DNA models and appropriate theoretical/computational techniques to gain insight into the relevant physics of the phenomenon.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://greddy-iisc.github.io/sitemap.xml
