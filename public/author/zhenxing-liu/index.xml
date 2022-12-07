@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenxing Liu | Theoretical/Computational Biophysics and Biophysical Chemistry</title>
+    <link>https://gova-red.github.io/author/zhenxing-liu/</link>
+      <atom:link href="https://gova-red.github.io/author/zhenxing-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenxing Liu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Govardhan Reddy</copyright><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gova-red.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhenxing Liu</title>
+      <link>https://gova-red.github.io/author/zhenxing-liu/</link>
+    </image>
+    
+    <item>
+      <title>Folding PDZ2 Domain Using the Molecular Transfer Model</title>
+      <link>https://gova-red.github.io/publication/paper25/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://gova-red.github.io/publication/paper25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein Folding: From Theory to Practice</title>
+      <link>https://gova-red.github.io/publication/paper20/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://gova-red.github.io/publication/paper20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denaturant-Dependent Folding of GFP</title>
+      <link>https://gova-red.github.io/publication/paper19/</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://gova-red.github.io/publication/paper19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of the Molecular Transfer Model for Proteins with Applications to the Folding of the src-SH3 Domain</title>
+      <link>https://gova-red.github.io/publication/paper18/</link>
+      <pubDate>Sat, 12 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://gova-red.github.io/publication/paper18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collapse Kinetics and Chevron Plots from Simulations of Denaturant-Dependent Folding of Globular Proteins</title>
+      <link>https://gova-red.github.io/publication/paper14/</link>
+      <pubDate>Sat, 21 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://gova-red.github.io/publication/paper14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

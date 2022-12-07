@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omar Valsson | Theoretical/Computational Biophysics and Biophysical Chemistry</title>
+    <link>https://gova-red.github.io/author/omar-valsson/</link>
+      <atom:link href="https://gova-red.github.io/author/omar-valsson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Omar Valsson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Govardhan Reddy</copyright><lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gova-red.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Omar Valsson</title>
+      <link>https://gova-red.github.io/author/omar-valsson/</link>
+    </image>
+    
+    <item>
+      <title>Mg2&#43; Sensing by an RNA Fragment: Role of Mg2&#43;-Coordinated Water Molecules</title>
+      <link>https://gova-red.github.io/publication/paper43/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gova-red.github.io/publication/paper43/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
