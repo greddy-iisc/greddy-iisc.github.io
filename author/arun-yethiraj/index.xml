@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun Yethiraj | g(r) LAB</title>
+    <link>https://greddy-iisc.github.io/author/arun-yethiraj/</link>
+      <atom:link href="https://greddy-iisc.github.io/author/arun-yethiraj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arun Yethiraj</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Govardhan Reddy</copyright><lastBuildDate>Thu, 18 Feb 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://greddy-iisc.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Arun Yethiraj</title>
+      <link>https://greddy-iisc.github.io/author/arun-yethiraj/</link>
+    </image>
+    
+    <item>
+      <title>Solvent Effects in Polyelectrolyte Adsorption: Computer Simulations with Explicit and Implicit Solvent</title>
+      <link>https://greddy-iisc.github.io/publication/paper10/</link>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://greddy-iisc.github.io/publication/paper10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit and Explicit Solvent Models for the Simulation of Dilute Polymer Solutions</title>
+      <link>https://greddy-iisc.github.io/publication/paper05/</link>
+      <pubDate>Sat, 28 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://greddy-iisc.github.io/publication/paper05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adsorption and Dynamics of a Single Polyelectrolyte Chain near a Planar Charged Surface:  Molecular Dynamics Simulations with Explicit Solvent</title>
+      <link>https://greddy-iisc.github.io/publication/paper04/</link>
+      <pubDate>Fri, 21 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://greddy-iisc.github.io/publication/paper04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integral Equation Theory for Symmetric Nonadditive Hard Sphere Mixtures</title>
+      <link>https://greddy-iisc.github.io/publication/paper03/</link>
+      <pubDate>Wed, 07 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>https://greddy-iisc.github.io/publication/paper03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Behavior of Fluids Near Solutes: A Density Functional Theory and Computer Simulation Study</title>
+      <link>https://greddy-iisc.github.io/publication/paper02/</link>
+      <pubDate>Wed, 18 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>https://greddy-iisc.github.io/publication/paper02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid State Theories for the Structure of Water</title>
+      <link>https://greddy-iisc.github.io/publication/paper01/</link>
+      <pubDate>Thu, 18 Dec 2003 00:00:00 +0000</pubDate>
+      <guid>https://greddy-iisc.github.io/publication/paper01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
