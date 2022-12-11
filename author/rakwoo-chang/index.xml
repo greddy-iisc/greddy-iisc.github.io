@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rakwoo Chang | g(r) LAB</title>
+    <link>https://greddy-iisc.github.io/author/rakwoo-chang/</link>
+      <atom:link href="https://greddy-iisc.github.io/author/rakwoo-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rakwoo Chang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Govardhan Reddy</copyright><lastBuildDate>Fri, 21 Apr 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://greddy-iisc.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Rakwoo Chang</title>
+      <link>https://greddy-iisc.github.io/author/rakwoo-chang/</link>
+    </image>
+    
+    <item>
+      <title>Adsorption and Dynamics of a Single Polyelectrolyte Chain near a Planar Charged Surface:  Molecular Dynamics Simulations with Explicit Solvent</title>
+      <link>https://greddy-iisc.github.io/publication/paper04/</link>
+      <pubDate>Fri, 21 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>https://greddy-iisc.github.io/publication/paper04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
