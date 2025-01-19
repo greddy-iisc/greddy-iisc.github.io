@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. A. M. Shamimul Ahsan | g(r) LAB</title>
+    <link>http://localhost:60966/author/s.-a.-m.-shamimul-ahsan/</link>
+      <atom:link href="http://localhost:60966/author/s.-a.-m.-shamimul-ahsan/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. A. M. Shamimul Ahsan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>S. A. M. Shamimul Ahsan</title>
+      <link>http://localhost:60966/author/s.-a.-m.-shamimul-ahsan/</link>
+    </image>
+    
+    <item>
+      <title>Hydrogen Bond Dynamics in Siliceous and Aluminated Faujasite: Comparison with Bulk Water</title>
+      <link>http://localhost:60966/publication/paper58/</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper58/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Diffusivity of an n‑Hexane-2,2-Dimethyl Butane Binary Mixture Confined to Zeolite Y</title>
+      <link>http://localhost:60966/publication/paper42/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper42/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

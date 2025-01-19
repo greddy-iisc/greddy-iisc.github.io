@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balaka Mondal | g(r) LAB</title>
+    <link>http://localhost:60966/author/balaka-mondal/</link>
+      <atom:link href="http://localhost:60966/author/balaka-mondal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Balaka Mondal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Balaka Mondal</title>
+      <link>http://localhost:60966/author/balaka-mondal/</link>
+    </image>
+    
+    <item>
+      <title>Energy Landscape of Ubiquitin is Weakly Multidimensional</title>
+      <link>http://localhost:60966/publication/paper46/</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double Domain Swapping in Human γC and γD Crystallin Drives Early Stages of Aggregation</title>
+      <link>http://localhost:60966/publication/paper44/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper44/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosolvent Effects on the Growth of Amyloid Fibrils</title>
+      <link>http://localhost:60966/publication/paper41/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper41/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Transient Intermediate Populated in Prion Folding Leads to Domain Swapping</title>
+      <link>http://localhost:60966/publication/paper38/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper38/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosolvent Effects on the Growth of Protein Aggregates Formed by a Single Domain Globular Protein and an Intrinsically Disordered Protein</title>
+      <link>http://localhost:60966/publication/paper34/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper34/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kushal Singh | g(r) LAB</title>
+    <link>http://localhost:60966/author/kushal-singh/</link>
+      <atom:link href="http://localhost:60966/author/kushal-singh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kushal Singh</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Kushal Singh</title>
+      <link>http://localhost:60966/author/kushal-singh/</link>
+    </image>
+    
+    <item>
+      <title>Excited States of apo-Guanidine-III Riboswitch Contribute to Guanidinium Binding through Both Conformational and Induced-Fit Mechanisms</title>
+      <link>http://localhost:60966/publication/paper55/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allosteric Determinants in High Temperature Requirement A Enzymes Are Conserved and Regulate the Population of Active Conformations</title>
+      <link>http://localhost:60966/publication/paper53/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper53/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pH Regulates Ligand Binding to an Enzyme Active Site by Modulating Intermediate Populations</title>
+      <link>http://localhost:60966/publication/paper52/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper52/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

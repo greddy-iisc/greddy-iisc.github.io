@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sk Habibullah | g(r) LAB</title>
+    <link>http://localhost:60966/author/sk-habibullah/</link>
+      <atom:link href="http://localhost:60966/author/sk-habibullah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sk Habibullah</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Sk Habibullah</title>
+      <link>http://localhost:60966/author/sk-habibullah/</link>
+    </image>
+    
+    <item>
+      <title>Metal Ion Sensing by Tetraloop-like RNA Fragment: Role of Compact Intermediates with Non-Native Metal Ion–RNA Inner-Shell Contacts</title>
+      <link>http://localhost:60966/publication/paper56/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local RNA Structure, Ion Hydration Shell and the Energy Barrier for Water Exchange from the Ion Hydration Shell Determine the Mechanism of Ion Condensation on Specific RNA Sites</title>
+      <link>http://localhost:60966/publication/paper48/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper48/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

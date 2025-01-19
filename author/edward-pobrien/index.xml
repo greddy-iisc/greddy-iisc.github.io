@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edward PO’Brien | g(r) LAB</title>
+    <link>http://localhost:60966/author/edward-pobrien/</link>
+      <atom:link href="http://localhost:60966/author/edward-pobrien/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edward PO’Brien</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Edward PO’Brien</title>
+      <link>http://localhost:60966/author/edward-pobrien/</link>
+    </image>
+    
+    <item>
+      <title>Protein Folding: From Theory to Practice</title>
+      <link>http://localhost:60966/publication/paper20/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

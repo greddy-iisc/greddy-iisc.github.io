@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sriraksha Srinivasan | g(r) LAB</title>
+    <link>http://localhost:60966/author/sriraksha-srinivasan/</link>
+      <atom:link href="http://localhost:60966/author/sriraksha-srinivasan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sriraksha Srinivasan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Sriraksha Srinivasan</title>
+      <link>http://localhost:60966/author/sriraksha-srinivasan/</link>
+    </image>
+    
+    <item>
+      <title>Role of Guanidinium-Carboxylate Ion Interaction in Enzyme Inhibition with Implications for Drug Design</title>
+      <link>http://localhost:60966/publication/paper39/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper39/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arun Yethiraj | g(r) LAB</title>
+    <link>http://localhost:60966/author/arun-yethiraj/</link>
+      <atom:link href="http://localhost:60966/author/arun-yethiraj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arun Yethiraj</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 18 Feb 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Arun Yethiraj</title>
+      <link>http://localhost:60966/author/arun-yethiraj/</link>
+    </image>
+    
+    <item>
+      <title>Solvent Effects in Polyelectrolyte Adsorption: Computer Simulations with Explicit and Implicit Solvent</title>
+      <link>http://localhost:60966/publication/paper10/</link>
+      <pubDate>Thu, 18 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit and Explicit Solvent Models for the Simulation of Dilute Polymer Solutions</title>
+      <link>http://localhost:60966/publication/paper05/</link>
+      <pubDate>Sat, 28 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adsorption and Dynamics of a Single Polyelectrolyte Chain near a Planar Charged Surface:  Molecular Dynamics Simulations with Explicit Solvent</title>
+      <link>http://localhost:60966/publication/paper04/</link>
+      <pubDate>Fri, 21 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integral Equation Theory for Symmetric Nonadditive Hard Sphere Mixtures</title>
+      <link>http://localhost:60966/publication/paper03/</link>
+      <pubDate>Wed, 07 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Behavior of Fluids Near Solutes: A Density Functional Theory and Computer Simulation Study</title>
+      <link>http://localhost:60966/publication/paper02/</link>
+      <pubDate>Wed, 18 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liquid State Theories for the Structure of Water</title>
+      <link>http://localhost:60966/publication/paper01/</link>
+      <pubDate>Thu, 18 Dec 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper01/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

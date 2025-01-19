@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nguyen Truong Co | g(r) LAB</title>
+    <link>http://localhost:60966/author/nguyen-truong-co/</link>
+      <atom:link href="http://localhost:60966/author/nguyen-truong-co/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nguyen Truong Co</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Nguyen Truong Co</title>
+      <link>http://localhost:60966/author/nguyen-truong-co/</link>
+    </image>
+    
+    <item>
+      <title>Factors Governing Fibrillogenesis of Polypeptide Chains Revealed by Lattice Models</title>
+      <link>http://localhost:60966/publication/paper12/</link>
+      <pubDate>Wed, 17 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

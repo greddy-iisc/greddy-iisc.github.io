@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John E. Straub | g(r) LAB</title>
+    <link>http://localhost:60966/author/john-e.-straub/</link>
+      <atom:link href="http://localhost:60966/author/john-e.-straub/index.xml" rel="self" type="application/rss+xml" />
+    <description>John E. Straub</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>John E. Straub</title>
+      <link>http://localhost:60966/author/john-e.-straub/</link>
+    </image>
+    
+    <item>
+      <title>Entropic Stabilization of Proteins by TMAO</title>
+      <link>http://localhost:60966/publication/paper15/</link>
+      <pubDate>Mon, 10 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of Water in Protein Aggregation and Amyloid Polymorphism</title>
+      <link>http://localhost:60966/publication/paper17/</link>
+      <pubDate>Fri, 15 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dry Amyloid Fibril Assembly in a Yeast Prion Peptide is Mediated by Long-Lived Structures Containing Water Wires</title>
+      <link>http://localhost:60966/publication/paper13/</link>
+      <pubDate>Mon, 22 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of Locking of Peptides onto Growing Amyloid Fibrils</title>
+      <link>http://localhost:60966/publication/paper09/</link>
+      <pubDate>Mon, 21 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Preformed Asp23−Lys28 Salt Bridge on the Conformational Fluctuations of Monomers and Dimers of Aβ Peptides with Implications for Rates of Fibril Formation</title>
+      <link>http://localhost:60966/publication/paper07/</link>
+      <pubDate>Tue, 06 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein Folding, Misfolding and Aggregation: Classical Themes and Novel Approaches</title>
+      <link>http://localhost:60966/publication/paper06/</link>
+      <pubDate>Tue, 24 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

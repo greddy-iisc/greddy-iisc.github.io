@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prashant Chandra Singh | g(r) LAB</title>
+    <link>http://localhost:60966/author/prashant-chandra-singh/</link>
+      <atom:link href="http://localhost:60966/author/prashant-chandra-singh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prashant Chandra Singh</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Prashant Chandra Singh</title>
+      <link>http://localhost:60966/author/prashant-chandra-singh/</link>
+    </image>
+    
+    <item>
+      <title>pH Regulates Ligand Binding to an Enzyme Active Site by Modulating Intermediate Populations</title>
+      <link>http://localhost:60966/publication/paper52/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Role of Disulfide Bonds and Topological Frustration in the Kinetic Partitioning of Lysozyme Folding Pathways</title>
+      <link>http://localhost:60966/publication/paper35/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting Effects of Guanidinium Chloride and Urea on the Activity and Unfolding of Lysozyme</title>
+      <link>http://localhost:60966/publication/paper33/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper33/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

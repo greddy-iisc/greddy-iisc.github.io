@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Navratna | g(r) LAB</title>
+    <link>http://localhost:60966/author/v.-navratna/</link>
+      <atom:link href="http://localhost:60966/author/v.-navratna/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. Navratna</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>V. Navratna</title>
+      <link>http://localhost:60966/author/v.-navratna/</link>
+    </image>
+    
+    <item>
+      <title>Structural Basis for the Catalytic Mechanism of Homoserine Dehydrogenase</title>
+      <link>http://localhost:60966/publication/paper22/</link>
+      <pubDate>Thu, 05 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

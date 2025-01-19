@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rakwoo Chang | g(r) LAB</title>
+    <link>http://localhost:60966/author/rakwoo-chang/</link>
+      <atom:link href="http://localhost:60966/author/rakwoo-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rakwoo Chang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Rakwoo Chang</title>
+      <link>http://localhost:60966/author/rakwoo-chang/</link>
+    </image>
+    
+    <item>
+      <title>Adsorption and Dynamics of a Single Polyelectrolyte Chain near a Planar Charged Surface:  Molecular Dynamics Simulations with Explicit Solvent</title>
+      <link>http://localhost:60966/publication/paper04/</link>
+      <pubDate>Fri, 21 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

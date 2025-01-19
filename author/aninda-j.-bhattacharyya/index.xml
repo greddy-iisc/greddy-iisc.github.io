@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aninda J. Bhattacharyya | g(r) LAB</title>
+    <link>http://localhost:60966/author/aninda-j.-bhattacharyya/</link>
+      <atom:link href="http://localhost:60966/author/aninda-j.-bhattacharyya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aninda J. Bhattacharyya</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Aninda J. Bhattacharyya</title>
+      <link>http://localhost:60966/author/aninda-j.-bhattacharyya/</link>
+    </image>
+    
+    <item>
+      <title>Mutual Diffusivity of an n‑Hexane-2,2-Dimethyl Butane Binary Mixture Confined to Zeolite Y</title>
+      <link>http://localhost:60966/publication/paper42/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper42/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

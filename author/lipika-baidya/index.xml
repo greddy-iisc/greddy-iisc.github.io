@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lipika Baidya | g(r) LAB</title>
+    <link>http://localhost:60966/author/lipika-baidya/</link>
+      <atom:link href="http://localhost:60966/author/lipika-baidya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lipika Baidya</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Lipika Baidya</title>
+      <link>http://localhost:60966/author/lipika-baidya/</link>
+    </image>
+    
+    <item>
+      <title>Metal Ion Sensing by Tetraloop-like RNA Fragment: Role of Compact Intermediates with Non-Native Metal Ion–RNA Inner-Shell Contacts</title>
+      <link>http://localhost:60966/publication/paper56/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pH Induced Switch in the Conformational Ensemble of Intrinsically Disordered Protein Prothymosin-α and Its Implications for Amyloid Fibril Formation</title>
+      <link>http://localhost:60966/publication/paper51/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper51/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salt-Induced Transitions in the Conformational Ensembles of Intrinsically Disordered Proteins</title>
+      <link>http://localhost:60966/publication/paper50/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper50/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

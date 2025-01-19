@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenxing Liu | g(r) LAB</title>
+    <link>http://localhost:60966/author/zhenxing-liu/</link>
+      <atom:link href="http://localhost:60966/author/zhenxing-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenxing Liu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:60966/media/icon_hu11734318148517933569.png</url>
+      <title>Zhenxing Liu</title>
+      <link>http://localhost:60966/author/zhenxing-liu/</link>
+    </image>
+    
+    <item>
+      <title>Folding PDZ2 Domain Using the Molecular Transfer Model</title>
+      <link>http://localhost:60966/publication/paper25/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein Folding: From Theory to Practice</title>
+      <link>http://localhost:60966/publication/paper20/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denaturant-Dependent Folding of GFP</title>
+      <link>http://localhost:60966/publication/paper19/</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory of the Molecular Transfer Model for Proteins with Applications to the Folding of the src-SH3 Domain</title>
+      <link>http://localhost:60966/publication/paper18/</link>
+      <pubDate>Sat, 12 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collapse Kinetics and Chevron Plots from Simulations of Denaturant-Dependent Folding of Globular Proteins</title>
+      <link>http://localhost:60966/publication/paper14/</link>
+      <pubDate>Sat, 21 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:60966/publication/paper14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
